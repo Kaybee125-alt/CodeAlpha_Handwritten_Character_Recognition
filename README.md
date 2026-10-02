@@ -1,4 +1,4 @@
-# CodeAlpha Handwritten Character Recognition
+# Handwritten Character Recognition
 
 ## 1. Project Overview
 
